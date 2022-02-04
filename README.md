@@ -6,6 +6,11 @@ The leaderboard is updated via github-workflow on the beginning of every hour.\
 Accounts that appeared on any of the leaderboards at one point are candidates for beeing tracked.
 
 
+## Github secrets
+- PAT, Github x-access-token
+- CLIENT_ID, Blizzard APi client ID
+- CLIENT_SECRET, Blizzard API client secret key
+
 ## Known Issues
 For a reason that im not aware of the `D3 Profile API` returns "Downstream error" for some accounts.\
 Whilst the accounts are still tracked, the account information can not be received and they therefore won't appear in the ladder.\
