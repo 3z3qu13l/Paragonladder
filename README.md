@@ -6,7 +6,7 @@ The leaderboard is updated via github-workflow on the beginning of every hour.\
 Accounts that appeared on any of the leaderboards at one point are candidates for beeing tracked.
 
 
-## Github secrets
+## Github environment secrets
 - PAT, Github x-access-token
 - CLIENT_ID, Blizzard APi client ID
 - CLIENT_SECRET, Blizzard API client secret key
